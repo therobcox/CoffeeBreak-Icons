@@ -25,4 +25,9 @@ Copy/Paste new CoffeeBreak-Icons folder to location:
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
 
+# Extra
+
 CoffeeBreak Theme here: <a href="https://github.com/therobcox/CoffeeBreak">https://github.com/therobcox/CoffeeBreak</a>
+
+Looks great with CoffeeBean Dynamic Background here: <a href="https://github.com/therobcox/CoffeeBean">https://github.com/therobcox/CoffeeCoffeeBean</a>
+
